@@ -1,6 +1,6 @@
 # Code Peer Review Templete
-- 코더 : 
-- 리뷰어 : 
+- 코더 : 백기웅 님
+- 리뷰어 : 김재림
 
 
 # PRT(PeerReviewTemplate)
