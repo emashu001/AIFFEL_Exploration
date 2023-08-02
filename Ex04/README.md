@@ -1,7 +1,7 @@
 # Code Peer Review Templete
 
 - 코더 : 백기웅
-- 리뷰어 : 박동원, 
+- 리뷰어 : 박동원, 김형우
 
 ---
 
